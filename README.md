@@ -37,54 +37,54 @@
 <br> <!-- Salto de línea -->
 
 <h3>Lenguajes y Herramientas:</h3>
-<p>
+<p style="display: flex; flex-wrap: wrap;">
   <a href="https://getbootstrap.com" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" width="24" height="24" style="margin-right: 25px;"/>
+    <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" width="35" height="35" style="margin-right: 30px;"/>
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" width="24" height="24" style="margin-right: 25px;"/>
+    <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" width="35" height="35" style="margin-right: 30px;"/>
   </a>
   <a href="https://expressjs.com" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/express.png" alt="Express.js" width="24" height="24" style="margin-right: 25px;"/>
+    <img src="https://img.icons8.com/color/48/000000/express.png" alt="Express.js" width="35" height="35" style="margin-right: 30px;"/>
   </a>
   <a href="https://www.figma.com/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma" width="24" height="24" style="margin-right: 25px;"/>
+    <img src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma" width="35" height="35" style="margin-right: 30px;"/>
   </a>
   <a href="https://git-scm.com/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="24" height="24" style="margin-right: 25px;"/>
+    <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="35" height="35" style="margin-right: 30px;"/>
   </a>
   <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" width="24" height="24" style="margin-right: 25px;"/>
+    <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" width="35" height="35" style="margin-right: 30px;"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="24" height="24" style="margin-right: 25px;"/>
+    <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="35" height="35" style="margin-right: 30px;"/>
   </a>
   <a href="https://nodejs.org" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="24" height="24" style="margin-right: 25px;"/>
+    <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="35" height="35" style="margin-right: 30px;"/>
   </a>
   <a href="https://www.photoshop.com/en" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/adobe-photoshop.png" alt="Photoshop" width="24" height="24" style="margin-right: 25px;"/>
+    <img src="https://img.icons8.com/color/48/000000/adobe-photoshop.png" alt="Photoshop" width="35" height="35" style="margin-right: 30px;"/>
   </a>
   <a href="https://www.postgresql.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="24" height="24" style="margin-right: 25px;"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="35" height="35" style="margin-right: 30px;"/>
   </a>
   <a href="https://postman.com" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/postman.png" alt="Postman" width="24" height="24" style="margin-right: 25px;"/>
+    <img src="https://img.icons8.com/color/48/000000/postman.png" alt="Postman" width="35" height="35" style="margin-right: 30px;"/>
   </a>
   <a href="https://reactjs.org/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" width="24" height="24" style="margin-right: 25px;"/>
+    <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" width="35" height="35" style="margin-right: 30px;"/>
   </a>
   <a href="https://redux.js.org" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/redux.png" alt="Redux" width="24" height="24" style="margin-right: 25px;"/>
+    <img src="https://img.icons8.com/color/48/000000/redux.png" alt="Redux" width="35" height="35" style="margin-right: 30px;"/>
   </a>
   <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/tailwindcss.png" alt="Tailwind CSS" width="24" height="24" style="margin-right: 25px;"/>
+    <img src="https://img.icons8.com/color/48/000000/tailwindcss.png" alt="Tailwind CSS" width="35" height="35" style="margin-right: 30px;"/>
   </a>
   <a href="https://nextjs.org" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/nextjs.png" alt="Next.js" width="24" height="24" style="margin-right: 25px;"/>
+    <img src="https://img.icons8.com/color/48/000000/nextjs.png" alt="Next.js" width="35" height="35" style="margin-right: 30px;"/>
   </a>
   <a href="https://nestjs.com" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/nestjs.png" alt="NestJS" width="24" height="24" style="margin-right: 25px;"/>
+    <img src="https://img.icons8.com/color/48/000000/nestjs.png" alt="NestJS" width="35" height="35" style="margin-right: 30px;"/>
   </a>
 </p>
 
