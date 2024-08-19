@@ -1,16 +1,19 @@
 <h1>Hola, soy Luciano Badenas</h1>
-<h3>Desarrollador Full-Stack</h3>
-Recientemente terminé el programa de Full-Stack Developer en Henry, lo que me ha proporcionado una sólida formación en desarrollo web.
+<h3>Desarrollador Full-Stack Junior</h3>
 
-En mi rol en el Ministerio, gestioné la distribución de alimentos, coordiné pagos a proveedores y supervisé el transporte de recursos. Me encargué de verificar facturas, asegurar la entrega oportuna de productos y optimizar procesos logísticos para mejorar la eficiencia. Trabajé estrechamente con otros departamentos y proveedores para garantizar una operación fluida y efectiva.
+Recientemente completé el programa de Full-Stack Developer en Henry, donde adquirí una formación integral en desarrollo web. Aunque tengo una base sólida en ambas áreas, mi interés se centra en el desarrollo backend. Me motiva construir APIs eficientes y mejorar sistemas para asegurar su rendimiento y escalabilidad.
 
-🌱 Actualmente estoy aprendiendo ThreeJs, Unreal Engine y Blender para aplicaciones visuales.
+Actualmente, estoy expandiendo mis habilidades en:
 
-🌱 Actualmente estoy aprendiendo Langchain, TensorFlow y PyTorch para integraciones de IA.
+🌱 **Aprendizaje**:
+- **Next.js** para el desarrollo de aplicaciones web avanzadas.
+- **Tailwind CSS** para diseñar interfaces atractivas y responsivas.
 
-🔭 Actualmente estoy trabajando con Next.js en un entorno React con Redux Toolkit.
+🔭 **Enfoque actual**:
+- **NestJS** para crear APIs robustas y eficientes que potencien aplicaciones backend.
 
-📫 Cómo contactarme: lucho101189@gmail.com
+📫 Puedes contactarme en: lucho101189@gmail.com
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
